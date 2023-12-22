@@ -1,0 +1,14 @@
+{
+    "development": {
+        "server": "http://localhost:3001",
+        "client": "http://localhost:3000/"
+    },
+    "staging": {
+        "server": "http://13.234.186.135:3001",
+        "client": "http://13.234.186.135:3000/"
+    },
+    "production": {
+        "server": "http://13.234.186.135:3001",
+        "client": "http://13.234.186.135:3000/"
+    }
+}
